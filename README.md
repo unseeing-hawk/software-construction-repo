@@ -13,12 +13,12 @@
 
 
 ## Контекстная диаграмма
-![Screenshot](Image/Context diagramm.jpg)
+![alt tag](Image/Context diagramm.jpg)
 ## Диаграмма контейнеров
-![Screenshot](Image/Cont Diagramm.jpeg)
+![alt tag](Image/Cont Diagramm.jpeg)
 ## Диаграмма базы данных отеля
 ![Screenshot](Image/Hotel.png)
 ## Диаграмма базы данных медицинского центра
 ![Screenshot](Image/Med Center.png)
 ## Диаграмма базы данных ресторана
-![Screenshot](Image/Rest.jpg)
+![alt tag](Image/Rest.jpg)
