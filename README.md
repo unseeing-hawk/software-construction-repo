@@ -10,3 +10,15 @@
 - Фомина Полина 3530904/90101
 - Казимиров Никита 3530904/90101
 - Назаренко Алёна 3530904/90101
+
+
+## Контекстная диаграмма
+![Screenshot](Image/Context diagramm.jpg)
+## Диаграмма контейнеров
+![Screenshot](Image/Cont Diagramm.jpeg)
+## Диаграмма базы данных отеля
+![Screenshot](Image/Hotel.png)
+## Диаграмма базы данных медицинского центра
+![Screenshot](Image/Med Center.png)
+## Диаграмма базы данных ресторана
+![Screenshot](Image/Rest.jpg)
